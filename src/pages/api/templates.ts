@@ -56,7 +56,6 @@ Provide follow-up questions for further inquiry.
 
     Final answer:
     `,
-  summerierTemplate: `Summarize the following text. You should follow the following rules when generating and answer:`
 }
 
 export { templates }
